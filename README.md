@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/faryal-faiz-a330a338/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/faryal-faiz-a330a3382/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
 <img src="https://img.shields.io/badge/IGDTUW-B.Tech_AI%2FML_'29-7C6CFF?style=for-the-badge" alt="IGDTUW B.Tech AI/ML, class of 2029" />
 <img src="https://img.shields.io/badge/Open_to-internships_%26_research-00B8D9?style=for-the-badge" alt="Open to internships and research" />
 
