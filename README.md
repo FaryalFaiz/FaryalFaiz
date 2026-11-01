@@ -22,7 +22,7 @@
 class Faryal:
     role        = "AI/ML builder · software engineer in progress"
     studying    = "B.Tech AI & ML @ IGDTUW, Delhi · class of 2029"
-    building    = ["multi-agent systems", "applied AI on real-world data", "computer vision research"]
+    building    = ["multi-agent systems", "applied AI systems", "computer vision research"]
     exploring   = ["cloud", "security", "linux & networking"]
     superpower  = "learning by building"
 
@@ -58,7 +58,14 @@ I'm a second-year AI/ML student who cares more about shipping working systems th
 
 ### `💼 experience`
 
-**Digital Innovation Intern** · immersive tech & AI-assisted prototypes
+#### 🔬 Research Intern · Anweshan Foundation, IGDTUW
+<img src="https://img.shields.io/badge/Duration-6_weeks-7C6CFF?style=flat-square" alt="6 weeks" />
+<img src="https://img.shields.io/badge/Focus-Research-00B8D9?style=flat-square" alt="Research" />
+
+Six weeks of hands-on research work at the Anweshan Foundation, IGDTUW. This is the experience that pushed me toward research-driven AI work, and it sits alongside the computer vision research further down this page.
+
+#### ✈️ Digital Innovation Intern · Qatar Airways
+<img src="https://img.shields.io/badge/Duration-1_month-30363d?style=flat-square" alt="1 month" />
 
 - Built and iterated on an interactive VR training prototype in **Unity + C#** for the **Pico 4**, shaped by real-world feedback.
 - Contributed to an AI-assisted interactive travel experience concept.
@@ -80,18 +87,9 @@ Agents that discover and organize internship and research opportunities from a u
 </td>
 <td width="50%" valign="top">
 
-<h4>🏛️ <a href="https://github.com/FaryalFaiz/MPLADS-AI">MPLADS-AI</a></h4>
-<b>Smart India Hackathon 2026</b><br/><br/>
-An explainable AI risk-intelligence platform for the MPLAD Scheme. It flags anomalies, cost irregularities, duplicate or similar works, stalled projects and progress mismatches across sanction, expenditure, payment and progress data. I extend the existing system, including a generative-AI chatbot component.<br/><br/>
-<code>Applied AI</code> <code>Anomaly Detection</code> <code>Explainable AI</code> <code>GenAI</code>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
 <h4>🥽 Immersive VR Training</h4>
-An interactive training simulation with object interaction in 3D environments, built for a standalone VR headset. Source is private.<br/><br/>
+<b>Interactive training simulation</b><br/><br/>
+A VR training prototype with object interaction in 3D environments, built for a standalone headset and refined through real-world feedback. Source is private.<br/><br/>
 <code>Unity</code> <code>C#</code> <code>Pico 4</code> <code>XR</code>
 
 </td>
@@ -124,11 +122,6 @@ An applied computer vision research project on enhancing underwater imagery in w
 $ echo "Open to internships, research and interesting technical collaborations."
 ```
 
-<a href="https://www.linkedin.com/in/faryal-faiz-a330a338/"><img src="https://img.shields.io/badge/Let's_talk-LinkedIn-7C6CFF?style=for-the-badge" alt="Contact on LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/faryal-faiz-a330a3382/"><img src="https://img.shields.io/badge/Let's_talk-LinkedIn-7C6CFF?style=for-the-badge" alt="Contact on LinkedIn" /></a>
 
 </div>
-
-<!--
-OPTIONAL: add one GitHub stats card once you have more activity. Paste below the stack section.
-<img src="https://github-readme-stats.vercel.app/api?username=FaryalFaiz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
--->
